@@ -130,7 +130,7 @@ main {
 }
 
 .main-navigation {
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .container {
